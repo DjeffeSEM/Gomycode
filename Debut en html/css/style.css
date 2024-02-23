@@ -1,0 +1,68 @@
+h1,h2,h3,h4{ 
+font-family : 'Times New Roman', Times, serif;
+font-style:normal;
+text-transform: uppercase;
+color: rgb(127, 176, 29);
+font-size:medium;
+text-align: center;
+border: 2px orange solid; 
+padding:3px;
+ 
+}
+body{
+    background-color: antiquewhite;
+    background-position: 50px;
+    border-radius: 30%;
+    margin-left: 10%;
+    margin-right: 15% ;
+    text-align: left;
+
+}
+header{
+    display: inline;
+    .class1{
+        text-align: left;
+        position: relative;
+    }
+    .class0{
+        text-align: right;
+        line-height-step: 100;
+        text-decoration:wavy;
+    }
+}
+
+
+.classx{
+border:solid;
+margin-top: 50px;
+padding-bottom: 25px;
+padding-left: 25px;
+position: relative;
+}
+
+.div{
+    width: 20px;
+    height: 15px;
+    border-spacing: 05px;
+    border-radius: 30%;
+    border-color: blue;
+}
+.class3{
+   text-align: right;
+   text-shadow: 150px;
+}
+
+.class5{
+    text-align: right;t
+    transform:float: 100%;
+    background-color: skyblue;
+    -moz-box-align: ;
+    border-color: beige;
+}
+footer{
+    word-spacing: 10%;
+    text-align: center;
+    border-spacing: 15%;
+    
+}
+
