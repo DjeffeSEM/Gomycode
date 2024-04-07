@@ -1,0 +1,210 @@
+header{
+    display: inline;
+ }
+Nav img{
+
+padding-right: 600px;
+
+}
+Nav a{
+    padding-left: 5px;
+    }
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'work sans';
+}
+section{
+    text-align: center;
+}  
+.Mas{
+    font-size: 30px;
+    text-transform:none;
+    color: #00B39B;
+}
+.Mas p{
+    font-family: 'Roboto';s
+     
+}
+#section0{
+    display: flex;
+
+}
+#section0 #section1 {
+    background-color: aquamarine;
+    border-left: 120x;
+    text-align: left;
+}
+#section0 #section2 {
+    margin-left: 2%;
+    background-color: rgb(19, 143, 101);
+    text-align: left; 
+}
+.div0{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;   
+    font-family: 'Work Sans';   
+}
+ 
+.div1{
+    background-color: #00CCB1;
+    border-radius: 5%;
+    text-transform: capitalize;
+    text-decoration: solid;
+    width: 310px;
+    height: 350px;   
+    font-family: 'work sans';
+    color: white;
+}     
+.div2{
+    background-color: #407FD2;
+    border-radius: 5%;
+    margin-left: 04%;
+    width: 310px;
+    height: 350px;
+    font-family: 'work sans';
+    color: white;
+}
+.div3{
+    background-color: #243245;
+    margin-left: 04%;
+    border-radius: 5%;
+    width: 310px;
+    height: 350px;
+    font-family: 'work sans';
+    color: white;
+}
+#icon-patients{
+padding-top: 13px;
+padding-left: 19px;
+}
+.SEC{
+    display: flex;
+}
+.class1{ 
+    margin-top: 15px;
+    text-align: left;
+    color: #00B39B;
+    padding-right: 20px;   
+}
+.class2{
+    margin-top: 15px;
+    color: rgba(0, 255, 247, 0.489);   
+}
+.class2 img{
+    margin-bottom: 25px;  
+}
+.class3{
+    margin-top: 15px;
+    margin-left: 3%;
+    color: rgba(255, 225, 0, 0.489);   
+}
+.class3 img{
+    margin-bottom: 25px;  
+}
+.class4{
+    margin-top: 15px;
+    : 15px;
+    margin-left: 3%;
+    color: rgba(162, 0, 255, 0.489);   
+}
+.class4 img{
+    margin-bottom: 25px;  
+}
+.class5{
+    margin-top: 15px;
+    margin-left: 3%;
+    color: rgba(219, 139, 48, 0.489);   
+}
+.class5 a {
+    margin: 15px;
+}
+.class5 img{
+    margin-bottom: 25px;  
+}
+.span0{
+    background-color: #b32100;
+}
+#divsec{
+ float: right;
+ }
+#divsec0{
+    display:flex;
+    background-color: #7ed5cb;
+    float: right;
+    
+}
+#divsec1{
+    background-color: #7d81881e;
+    border-radius: 5%;
+    width: 200px;
+    height: 150px;
+    
+}
+#divsec2{
+    background-color: #d240d2;
+    border-radius: 5%;
+    width: 200px;
+    height: 150px;
+    margin-left: 5%;
+    
+}
+.style0{
+float: rt;
+}
+#divsec3{
+    background-color: #407FD2;
+    border-radius: 5%;
+    width: 200px;
+    height: 150px;
+    margin-left: 5%; 
+ } 
+ #divsec4{
+    background-color: #40d24f;
+    border-radius: 5%;
+    width: 200px;
+    height: 150px;
+    margin-left: 5%;  
+ }
+ .bleue1{
+    background-color: #42f7de;
+    display: inline;
+    background-position: left;
+ }
+ .bleue1 img{
+     float: left; 
+ }
+ .bleue2{
+    display: flex;
+ }
+ .jaune1{
+    float: right;
+    text-align: right;
+ }
+ #dov{
+    border-radius: 5%;
+    background-color: #b32100;
+    width: 150px;
+    height: 230px;
+ }
+ #dov2{
+    border-radius: 5%;
+    background-color: #5ab300;
+    width: 150px;
+    height: 230px;
+ }
+ #dov3{
+    border-radius: 5%;
+    background-color: #14abad;
+    width: 150px;
+    height: 230px;
+ }
+ #dov4{
+    border-radius: 5%;
+    background-color: #0931b6;
+    width: 150px;
+    height: 230px;
+ }

@@ -1,5 +1,5 @@
 h1,h2,h3,h4{ 
-font-family : 'Times New Roman', Times, serif;
+font-family :'roboto';
 font-style:normal;
 text-transform: uppercase;
 color: rgb(127, 176, 29);
@@ -7,39 +7,65 @@ font-size:medium;
 text-align: center;
 border: 2px orange solid; 
 padding:3px;
+position: relative;
+
  
 }
+
+header{
+    display:flex;
+    text-align: right;
+    background:rgb(127, 176, 29);
+
+}
+
+.class1{
+        text-align: left;
+        position: relative;     
+    }
+   
+
+.class1 a img{
+     
+    width:150px ;
+ }
+
+.class0 a {
+ 
+    font-size: larger;
+    text-decoration:none;
+    border-radius: 80px;
+    border-bottom: 100px;
+    background-color:chocolate ;
+    
+}
+.class0 {
+    float: right;
+    margin-left: 700px;
+}
+.class0  :hover{
+     
+    color: crimson;
+       
+}
+.ul{
+    float: right;
+   
+}
+.ul img {
+  border-radius: 5%  ;
+
+}
+
 body{
     background-color: antiquewhite;
     background-position: 50px;
     border-radius: 30%;
-    margin-left: 10%;
+    margin-left: 50%;
     margin-right: 15% ;
     text-align: left;
 
 }
-header{
-    display: inline;
-    .class1{
-        text-align: left;
-        position: relative;
-    }
-    .class0{
-        text-align: right;
-        line-height-step: 100;
-        text-decoration:wavy;
-    }
-}
-
-
-.classx{
-border:solid;
-margin-top: 50px;
-padding-bottom: 25px;
-padding-left: 25px;
-position: relative;
-}
-
 .div{
     width: 20px;
     height: 15px;
@@ -51,18 +77,39 @@ position: relative;
    text-align: right;
    text-shadow: 150px;
 }
+.section{
 
-.class5{
-    text-align: right;t
-    transform:float: 100%;
-    background-color: skyblue;
-    -moz-box-align: ;
-    border-color: beige;
+    
+    display:flex;
+    padding-block: 5%;
 }
+.class6 {
+   display: block;
+   border:ridge;
+background-color: aquamarine;
+}
+.class7 {
+    display: grid;
+    border: groove;
+    background-color: rgb(22, 181, 128);
+
+ }
+ .class8 {
+    display: grid;
+    border: groove;
+    background-color: rgb(129, 153, 215);
+ }
+ .class9 {
+    display: grid;
+    border: groove;
+    background-color: rgb(224, 121, 159);
+ }
+
 footer{
     word-spacing: 10%;
     text-align: center;
     border-spacing: 15%;
+    border:dotted ;
     
 }
 
